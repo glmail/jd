@@ -177,7 +177,7 @@ async function sendNotify(
   text,
   desp,
   params = {},
-  author = '\n\n华人牌2021款手机傻妞为您服务',
+  author = '\n\n华人牌2021款手机傻妞为您服务~',
 ) {
   //提供6种通知
   desp += author; //增加作者信息，防止被贩卖等
